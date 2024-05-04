@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Login" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- No action bar -->
+        <item name="colorPrimary">@color/birumuda</item>
+    </style>
+
+</resources>

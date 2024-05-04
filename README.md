@@ -3,7 +3,7 @@ Login Page Android
 Deskripsi singkat tentang proyek.
 
 Deskripsi
-Project ini adalah aplikasi Android open source sederhana yang memungkinkan pengguna untuk melakukan proses login. Aplikasi ini dilengkapi dengan halaman login yang memiliki fitur untuk memasukkan alamat email, kata sandi, dan konfirmasi kata sandi. Setelah login berhasil, pengguna akan diarahkan ke halaman selamat datang.
+Project ini adalah aplikasi Android open source sederhana yang memungkinkan pengguna untuk melakukan proses login. Aplikasi ini dilengkapi dengan halaman login yang memiliki fitur untuk memasukkan alamat email, kata sandi, dan konfirmasi kata sandi. Setelah login berhasil, pengguna akan diarahkan ke halaman main yang hanya berisi tulisan selamat datang.
 
 Proyek ini dikembangkan menggunakan Firebase Authentication untuk otentikasi pengguna.
 
